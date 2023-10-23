@@ -15,4 +15,4 @@
 </table>
 
 ## Project link running:
-<a target="_blank" href="https://explore-blog-six.vercel.app/">Project Link</a>
+<a target="_blank" href="https://guessing-game-ashy.vercel.app/">Project Link</a>
