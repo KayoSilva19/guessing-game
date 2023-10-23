@@ -9,8 +9,6 @@ let valueSelected = document.querySelector('#valueNumber')
 let randomNumber = Math.round(Math.random() * 10)
 let xAttempts = 1;
 
-console.log(randomNumber);
-
 buttonAttempts.addEventListener('click', handleTryClick)
 buttonPlayAgain.addEventListener('click', toggleScreen)
 
@@ -36,7 +34,6 @@ function handleReset() {
     valueSelected.value = ''
     xAttempts = 1
     randomNumber = Math.round(Math.random() * 10)
-    console.log(randomNumber);
   // location.reload()
 }
 
